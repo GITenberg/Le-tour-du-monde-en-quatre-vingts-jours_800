@@ -1,5 +1,8 @@
 _repo: Le-tour-du-monde-en-quatre-vingts-jours_800
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/800#Le-tour-du-monde-en-quatre-vingts-jours
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '1997-01-01'
 gutenberg_type: Text
